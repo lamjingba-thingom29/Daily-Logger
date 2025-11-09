@@ -12,6 +12,11 @@ This helps build consistency and discipline over time.
 
 ## Example Output
 
-![Program Output](Screenshot 2025-11-09 145207.jpg)
+![Program Output](Screenshot%202025-11-09%20145207.jpg)
 
+## Skills Learned
 
+- Variables
+- User Input
+- Printing Output
+- Basic Program Structure
