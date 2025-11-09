@@ -7,7 +7,7 @@ This helps build consistency and discipline over time.
 
 1. Install Python (if not installed)
 2. Open Terminal (Command Prompt)
-3. Navigate to the folder where the file is saved:  cd C:\Users\nabat\OneDrive\Desktop\Coding_Projects\Project_01_DailyLogger
+3. Navigate to the folder where the file is saved:    cd C:\Users\nabat\OneDrive\Desktop\Coding_Projects\Project_01_DailyLogger
 4. Run the program: python daily_logger.py
 
 ## Example Output
