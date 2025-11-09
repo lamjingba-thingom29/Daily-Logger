@@ -10,5 +10,8 @@ This helps build consistency and discipline over time.
 3. Navigate to the folder where the file is saved: cd C:\Users\nabat\OneDrive\Desktop\Coding_Projects\Project_01_DailyLogger
 4. Run the program: python daily_logger.py
 
+## Example Output
+
+![Program Output](Screenshot 2025-11-09 145207.jpg)
 
 
